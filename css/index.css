@@ -1068,3 +1068,7 @@ body, h1, h2, h3, p {
 .container.footer a:hover {
   text-decoration: underline;
 }
+
+.col-md-4 {
+  padding: 0.8em;
+}
